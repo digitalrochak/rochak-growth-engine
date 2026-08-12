@@ -45,9 +45,9 @@ export function Contact() {
 
           <ul className="mt-10 space-y-4">
             {[
-              { icon: Mail, label: "Email", value: "[Your email address]" },
-              { icon: Phone, label: "Phone / WhatsApp", value: "[Your phone number]" },
-              { icon: MapPin, label: "Location", value: "[Your location]" },
+              { icon: Mail, label: "Email", value: "digitalrochak.officialgmail.com" },
+              { icon: Phone, label: "Phone / WhatsApp", value: "9817379939" },
+              { icon: MapPin, label: "Location", value: "Itahari,Nepal" },
             ].map(({ icon: Icon, label, value }) => (
               <li key={label} className="surface-card flex items-center gap-4 rounded-2xl p-4">
                 <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-gradient-accent text-primary-foreground">

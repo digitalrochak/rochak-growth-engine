@@ -38,10 +38,10 @@ export function Navbar() {
       >
         <a href="#home" className="flex min-w-0 items-center gap-3">
           <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-gradient-accent text-sm font-bold text-primary-foreground">
-            RR
+            DR
           </span>
           <span className="min-w-0">
-            <span className="block truncate font-display text-sm font-bold">Rochak Regmi</span>
+            <span className="block truncate font-display text-sm font-bold">Digital Rochak</span>
             <span className="block truncate text-xs text-muted-foreground">Digital Marketer</span>
           </span>
         </a>

@@ -32,7 +32,7 @@ export function Hero() {
           <p className="mt-6 max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">
             I&apos;m Rochak Regmi — I help businesses generate leads, increase sales, build brand
             awareness, and grow their online presence through strategic paid advertising, creative
-            design, and Local SEO.
+            design, and Graphic Design.
           </p>
 
           <div className="mt-9 flex flex-wrap gap-3">
@@ -66,15 +66,15 @@ export function Hero() {
           <div className="relative overflow-hidden rounded-[2.25rem] border border-border bg-surface shadow-[var(--shadow-elevated)]">
             <img
               src={portrait}
-              alt="Portrait of Rochak Regmi, digital marketer"
+              alt="Portrait of  Digital Rochak, digital marketer"
               width={1024}
               height={1280}
               className="h-full w-full object-cover"
             />
             <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background via-background/70 to-transparent px-6 pb-6 pt-16">
-              <p className="font-display text-lg font-bold">Rochak Regmi</p>
+              <p className="font-display text-lg font-bold">Digital Rochak</p>
               <p className="text-sm text-muted-foreground">
-                Paid Ads · Lead Generation · Local SEO
+                Paid Ads · Lead Generation · Graphic Design
               </p>
             </div>
           </div>
