@@ -5,7 +5,7 @@ import { Cta } from "./Cta";
 const floaters = [
   { icon: Target, label: "Audience Targeting", className: "left-0 top-10", delay: "0s" },
   { icon: BarChart3, label: "Campaign ROI", className: "right-0 top-32", delay: "1.4s" },
-  { icon: Search, label: "Local SEO", className: "left-2 bottom-16", delay: "2.6s" },
+  { icon: Search, label: "Local SEO", className: "-left-4 bottom-40", delay: "2.6s" },
 ];
 
 export function Hero() {
