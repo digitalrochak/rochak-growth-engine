@@ -41,7 +41,7 @@ export function Navbar() {
             DR
           </span>
           <span className="min-w-0">
-            <span className="block truncate font-display text-sm font-bold">Digital Rochak</span>
+            <span className="block truncate font-display text-sm font-bold">Digital Rochak&nbsp;</span>
             <span className="block truncate text-xs text-muted-foreground">Digital Marketer</span>
           </span>
         </a>

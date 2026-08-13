@@ -14,9 +14,10 @@ export function Footer() {
           <p className="font-display text-lg font-extrabold">Digital Rochak</p>
           <p className="text-sm text-primary">Digital Marketer</p>
           <p className="mt-3 max-w-sm text-sm text-muted-foreground">
-            Helping to Elevating your business strategy ,Marketing & Growth Solutions.
+            Helping to Elevating your business strategy, Marketing & Growth Solutions.
           </p>
         </div>
+
         <nav aria-label="Footer">
           <ul className="grid grid-cols-2 gap-2 sm:justify-items-end">
             {links.map((l) => (
@@ -32,9 +33,10 @@ export function Footer() {
           </ul>
         </nav>
       </div>
+
       <div className="mx-auto mt-10 max-w-6xl border-t border-border px-5 pt-6 lg:px-8">
         <p className="text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Rochak Regmi. All rights reserved.
+          © {new Date().getFullYear()} Digital Rochak. All rights reserved.
         </p>
       </div>
     </footer>
