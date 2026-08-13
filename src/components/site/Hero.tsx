@@ -5,7 +5,7 @@ import { Cta } from "./Cta";
 const floaters = [
   { icon: Target, label: "Audience Targeting", className: "left-0 top-10", delay: "0s" },
   { icon: BarChart3, label: "Campaign ROI", className: "right-0 top-32", delay: "1.4s" },
-  { icon: Search, label: "Graphic Design", className: "-left-4 bottom-40", delay: "2.6s" },
+  { icon: Search, label: "Graphics SEO", className: "-left-4 bottom-40", delay: "2.6s" },
 ];
 
 export function Hero() {
@@ -74,7 +74,7 @@ export function Hero() {
             <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-background via-background/70 to-transparent px-6 pb-6 pt-16">
               <p className="font-display text-lg font-bold">Digital Rochak</p>
               <p className="text-sm text-muted-foreground">
-                Paid Ads · Lead Generation · Graphic Design
+                Paid Ads · Lead Generation · Graphics Design
               </p>
             </div>
           </div>
