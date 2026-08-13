@@ -83,7 +83,7 @@ export function Contact() {
                   type="email"
                   required
                   className={fieldClass}
-                  placeholder="you@company.com"
+                  placeholder="your@company.com"
                 />
               </div>
             </div>
@@ -139,7 +139,7 @@ export function Contact() {
             <p aria-live="polite" className="text-sm text-muted-foreground">
               {submitted
                 ? "Message received — I'll be in touch shortly."
-                : "I usually reply within one business day."}
+                : "I will reply your message within 24 hours."}
             </p>
           </form>
         </Reveal>
