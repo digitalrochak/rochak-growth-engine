@@ -45,7 +45,7 @@ export function Contact() {
 
           <ul className="mt-10 space-y-4">
             {[
-              { icon: Mail, label: "Email", value: "digitalrochak.officialgmail.com" },
+              { icon: Mail, label: "Email", value: "digitalrochak.official@gmail.com" },
               { icon: Phone, label: "Phone / WhatsApp", value: "9817379939" },
               { icon: MapPin, label: "Location", value: "Itahari,Nepal" },
             ].map(({ icon: Icon, label, value }) => (
