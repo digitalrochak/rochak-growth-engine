@@ -11,12 +11,12 @@ const categories = [
 ];
 
 const placeholders = [
-  { category: "Facebook & Instagram Ads", objective: "Campaign objective to be added" },
-  { category: "Google Ads", objective: "Campaign objective to be added" },
-  { category: "Lead Generation", objective: "Campaign objective to be added" },
-  { category: "Graphic Design", objective: "Project objective to be added" },
-  { category: "Local SEO", objective: "Project objective to be added" },
-  { category: "Multi-channel", objective: "Project objective to be added" },
+  { category: "Facebook & Instagram Ads", objective: "Scale online sales and ROAS" },
+  { category: "Google Ads", objective: "Drive qualified service inquiries" },
+  { category: "Lead Generation", objective: "Generate qualified property buyer leads" },
+  { category: "Graphic Design", objective: " Create compelling ad creatives" },
+  { category: "Local SEO", objective: "Improve local search rankings" },
+  { category: "Multi-channel", objective: "Increase foot traffic and online orders" },
 ];
 
 export function Portfolio() {
